@@ -1,0 +1,150 @@
+*{
+    margin: 0px;;
+    font-family: 'Open Sans', sans-serif;
+
+}
+/* banner styles */
+.banner{
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    Width:1600px;
+    Height: 808px;
+    Top:808px;
+    Left:1596px; 
+    align-items: right center;  
+}
+
+.banner-title{
+    font-size: 40px;
+    text-align:right;
+    padding-top: 200px;
+
+}
+.banner-sub-title{
+    font-size: 25px;
+    text-align:right;
+    margin-bottom: px;
+    padding-top:20px;
+}
+
+
+
+.btn-primary{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    float: right;
+    display: flex;
+    
+}
+
+.section{
+    text-align: center;
+    display: flex;
+    
+    
+
+    
+}
+.section-title{
+    text-align:right;
+    font-size: 50px;
+    padding: 100px;
+    margin-left: 20px;
+    
+}
+.section-paragraph{
+    margin-top: 390px;
+    
+    
+    
+
+}
+
+.img-per{
+    margin-left: 0px;
+}
+
+
+
+.plan-container{
+    display: flex;
+    gap: 200px;
+    margin-left: 280px;
+    margin-right: 350px;
+    margin-bottom: 50px;  
+}
+.plan{
+    text-align: center;
+    
+
+}
+.contact{
+    background-image:url(../images/watch.png);
+    height: 300px;
+    width: 1140px;
+    background-repeat: no-repeat;
+    gap: 20px;
+    margin-left: 200px;
+}
+
+    
+
+.last{
+    background-color:black;
+    height: 517px;
+    width: 1600px;
+    display: flex;
+    gap: 50px;
+    margin-top: 80px;
+
+}
+.last-title{
+    color:#FFFFFF;
+    font-size: 40px;
+    margin-bottom: 20px;
+
+}
+.last-sub-title{
+    color: #FFFFFF;
+    margin-bottom: 20px;
+
+
+}
+.last-info{
+    color:#FFFFFF;
+    margin-bottom: 20px;
+}
+.future{
+    padding:170px ;
+}
+
+
+.subscribe{
+    color: #FFFFFF;
+    padding: 170px;
+    
+}
+.btn{
+    display: flex;
+    margin-top: 20px;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color:white;
+    color: #FD6E0A;
+    padding: 20px;
+    border: 20px;
+    border-radius: 10px;
+    
+    
+    
+}
+.sub-title{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
